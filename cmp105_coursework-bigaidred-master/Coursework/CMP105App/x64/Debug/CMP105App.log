@@ -1,0 +1,72 @@
+﻿  Background.cpp
+  Button.cpp
+  Credits.cpp
+  Cursor.cpp
+C:\Users\aherr\Documents\Github\RocketLaunched\cmp105_coursework-bigaidred-master\Coursework\CMP105App\Cursor.cpp(45,69): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\Users\aherr\Documents\Github\RocketLaunched\cmp105_coursework-bigaidred-master\Coursework\CMP105App\Cursor.cpp(45,69): warning C4244:         with
+C:\Users\aherr\Documents\Github\RocketLaunched\cmp105_coursework-bigaidred-master\Coursework\CMP105App\Cursor.cpp(45,69): warning C4244:         [
+C:\Users\aherr\Documents\Github\RocketLaunched\cmp105_coursework-bigaidred-master\Coursework\CMP105App\Cursor.cpp(45,69): warning C4244:             T=float
+C:\Users\aherr\Documents\Github\RocketLaunched\cmp105_coursework-bigaidred-master\Coursework\CMP105App\Cursor.cpp(45,69): warning C4244:         ]
+C:\Users\aherr\Documents\Github\RocketLaunched\cmp105_coursework-bigaidred-master\Coursework\CMP105App\Cursor.cpp(45,46): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\Users\aherr\Documents\Github\RocketLaunched\cmp105_coursework-bigaidred-master\Coursework\CMP105App\Cursor.cpp(45,46): warning C4244:         with
+C:\Users\aherr\Documents\Github\RocketLaunched\cmp105_coursework-bigaidred-master\Coursework\CMP105App\Cursor.cpp(45,46): warning C4244:         [
+C:\Users\aherr\Documents\Github\RocketLaunched\cmp105_coursework-bigaidred-master\Coursework\CMP105App\Cursor.cpp(45,46): warning C4244:             T=float
+C:\Users\aherr\Documents\Github\RocketLaunched\cmp105_coursework-bigaidred-master\Coursework\CMP105App\Cursor.cpp(45,46): warning C4244:         ]
+C:\Users\aherr\Documents\Github\RocketLaunched\cmp105_coursework-bigaidred-master\Coursework\CMP105App\Cursor.cpp(76,23): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\aherr\Documents\Github\RocketLaunched\cmp105_coursework-bigaidred-master\Coursework\CMP105App\Cursor.cpp(77,23): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  Animation.cpp
+  AudioManager.cpp
+  BaseLevel.cpp
+  Collision.cpp
+  GameState.cpp
+  Input.cpp
+  MusicObject.cpp
+  GameObject.cpp
+  SoundObject.cpp
+  TileMap.cpp
+  VectorHelper.cpp
+  Ground.cpp
+  Launcher.cpp
+  Level.cpp
+C:\Users\aherr\Documents\Github\RocketLaunched\cmp105_coursework-bigaidred-master\Coursework\CMP105App\Level.cpp(109,64): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+C:\Users\aherr\Documents\Github\RocketLaunched\cmp105_coursework-bigaidred-master\Coursework\CMP105App\Level.cpp(109,64): warning C4244:         with
+C:\Users\aherr\Documents\Github\RocketLaunched\cmp105_coursework-bigaidred-master\Coursework\CMP105App\Level.cpp(109,64): warning C4244:         [
+C:\Users\aherr\Documents\Github\RocketLaunched\cmp105_coursework-bigaidred-master\Coursework\CMP105App\Level.cpp(109,64): warning C4244:             T=unsigned int
+C:\Users\aherr\Documents\Github\RocketLaunched\cmp105_coursework-bigaidred-master\Coursework\CMP105App\Level.cpp(109,64): warning C4244:         ]
+  LevelMap.cpp
+  LevelMap2.cpp
+  Generating Code...
+  Compiling...
+  LevelMap3.cpp
+  LevelMap4.cpp
+  LevelMap5.cpp
+  LevelMap6.cpp
+  LevelMap7.cpp
+  LevelMap8.cpp
+  LevelMap9.cpp
+  Main.cpp
+  Menu.cpp
+  NPC.cpp
+C:\Users\aherr\Documents\Github\RocketLaunched\cmp105_coursework-bigaidred-master\Coursework\CMP105App\NPC.cpp(96,13): warning C4553: '==': result of expression not used; did you intend '='?
+  Player.cpp
+C:\Users\aherr\Documents\Github\RocketLaunched\cmp105_coursework-bigaidred-master\Coursework\CMP105App\Player.cpp(33,31): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+C:\Users\aherr\Documents\Github\RocketLaunched\cmp105_coursework-bigaidred-master\Coursework\CMP105App\Player.cpp(33,31): warning C4244:         with
+C:\Users\aherr\Documents\Github\RocketLaunched\cmp105_coursework-bigaidred-master\Coursework\CMP105App\Player.cpp(33,31): warning C4244:         [
+C:\Users\aherr\Documents\Github\RocketLaunched\cmp105_coursework-bigaidred-master\Coursework\CMP105App\Player.cpp(33,31): warning C4244:             T=float
+C:\Users\aherr\Documents\Github\RocketLaunched\cmp105_coursework-bigaidred-master\Coursework\CMP105App\Player.cpp(33,31): warning C4244:         ]
+C:\Users\aherr\Documents\Github\RocketLaunched\cmp105_coursework-bigaidred-master\Coursework\CMP105App\Player.cpp(136,37): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+C:\Users\aherr\Documents\Github\RocketLaunched\cmp105_coursework-bigaidred-master\Coursework\CMP105App\Player.cpp(136,37): warning C4244:         with
+C:\Users\aherr\Documents\Github\RocketLaunched\cmp105_coursework-bigaidred-master\Coursework\CMP105App\Player.cpp(136,37): warning C4244:         [
+C:\Users\aherr\Documents\Github\RocketLaunched\cmp105_coursework-bigaidred-master\Coursework\CMP105App\Player.cpp(136,37): warning C4244:             T=unsigned int
+C:\Users\aherr\Documents\Github\RocketLaunched\cmp105_coursework-bigaidred-master\Coursework\CMP105App\Player.cpp(136,37): warning C4244:         ]
+C:\Users\aherr\Documents\Github\RocketLaunched\cmp105_coursework-bigaidred-master\Coursework\CMP105App\Player.cpp(235,12): warning C4553: '==': result of expression not used; did you intend '='?
+  Trophy.cpp
+  TutMap.cpp
+  Tutorial.cpp
+  UI.cpp
+C:\Users\aherr\Documents\Github\RocketLaunched\cmp105_coursework-bigaidred-master\Coursework\CMP105App\UI.cpp(93,14): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\aherr\Documents\Github\RocketLaunched\cmp105_coursework-bigaidred-master\Coursework\CMP105App\UI.cpp(143,13): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  Win.cpp
+  Generating Code...
+C:\Users\aherr\Documents\Github\RocketLaunched\cmp105_coursework-bigaidred-master\Coursework\CMP105App\UI.h(55): warning C4715: 'UI::getTutorialText': not all control paths return a value
+  CMP105App.vcxproj -> C:\Users\aherr\Documents\Github\RocketLaunched\cmp105_coursework-bigaidred-master\Coursework\x64\Debug\CMP105App.exe
